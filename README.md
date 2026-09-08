@@ -1,5 +1,5 @@
 # Developer Profile
 
-- **Name:** Karsten Salinas
+- **Name:** Karsten (@KmanKnight)
 - **Hobby:** TaeKwonDo
 - **Prefered Development Tool:** CLI or Notepad++
