@@ -1,12 +1,11 @@
 # Project Idea
 
 ## Project Name
-
-TBD
+Cool Project Name
 
 ## Problem to Solve
 
 Lack of cool people
 
-## Target User TBD
-
+## Target User
+The People
