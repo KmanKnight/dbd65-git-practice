@@ -4,7 +4,8 @@
 Cool Project Name
 
 ## Problem to Solve
-TBD
+
+Lack of cool people
 
 ## Target User
 The People
