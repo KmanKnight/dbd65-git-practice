@@ -1,7 +1,7 @@
 # Project Idea
 
 ## Project Name
-TBD
+Cool Project Name
 
 ## Problem to Solve
 TBD
