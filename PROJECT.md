@@ -1,9 +1,12 @@
 # Project Idea
 
 ## Project Name
+
 TBD
 
 ## Problem to Solve
-TBD
+
+Lack of cool people
 
 ## Target User TBD
+
