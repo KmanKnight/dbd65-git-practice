@@ -6,4 +6,5 @@ Cool Project Name
 ## Problem to Solve
 TBD
 
-## Target User TBD
+## Target User
+The People
